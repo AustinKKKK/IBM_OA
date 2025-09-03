@@ -20,10 +20,9 @@ If a specific gate job is 0, for Java, I used a getOrDefault function,
 
 and for Go, I used an if statement for filtering it.# IBM_OA
 
-# How to run it
-##
-<OA1>
-- go run OA1.go
+## 🚀 How to Run  
 
-<OA2>
-- go run OA2.go
+### OA1
+```bash
+go run OA1.go
+go run OA2.go
