@@ -18,7 +18,7 @@ So, I can set the total jobs for each gate.
 Second, by using for loop, I created and update each gateways jobs.
 If a specific gate job is 0, for Java, I used a getOrDefault function, 
 
-and for Go, I used an if statement for filtering it.# IBM_OA
+and for Go, I used an if statement for filtering it.
 
 ## 🚀 How to Run  
 
@@ -26,3 +26,4 @@ and for Go, I used an if statement for filtering it.# IBM_OA
 ```bash
 go run OA1.go
 go run OA2.go
+
