@@ -17,4 +17,13 @@ First, I implemented a hash map for JobNums and Gateways.
 So, I can set the total jobs for each gate.
 Second, by using for loop, I created and update each gateways jobs.
 If a specific gate job is 0, for Java, I used a getOrDefault function, 
+
 and for Go, I used an if statement for filtering it.# IBM_OA
+
+# How to run it
+##
+<OA1>
+- go run OA1.go
+
+<OA2>
+- go run OA2.go
